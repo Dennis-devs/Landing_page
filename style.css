@@ -42,6 +42,7 @@
     border-radius: 10px;
     border: none;
     font-size: 20px;
+    cursor: pointer;
 }
 .salute{
     font-size: 48px;
