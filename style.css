@@ -44,6 +44,16 @@
     font-size: 20px;
     cursor: pointer;
 }
+.click .press:hover{
+    background-color: #F9FAF8;
+    color: #1F2937;
+    border: medium solid #1F2937;
+}
+.header2 .press:hover{
+    background-color: #F9FAF8;
+    color: #1F2937;
+    border: medium solid #3882f6;
+}
 .salute{
     font-size: 48px;
     font-weight: bolder;
@@ -94,6 +104,10 @@ h1, h3{
     width: 450px;
     border-radius: 5%;
         
+}
+.fkimagez:hover{
+    border: 2px solid #3882f6;
+    cursor: pointer;
 }
 .rowz{
     display: flex;
