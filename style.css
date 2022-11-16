@@ -1,3 +1,9 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
 .header{
     display: flex;
     justify-content: space-around;
@@ -32,6 +38,7 @@
 .intro{
     display: flex;
     flex-direction: column;
+    justify-content: space-evenly;
     width: 40%;
 }
 .press{
@@ -43,6 +50,7 @@
     border: none;
     font-size: 20px;
     cursor: pointer;
+    margin-top: 20px;
 }
 .click .press:hover{
     background-color: #F9FAF8;
